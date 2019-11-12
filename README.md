@@ -1,4 +1,4 @@
-Email: frankie4@btinternet.com
+Email: frankie4@btinternet.com<br>
 GitHub: https://github.com/FrankieBoye
 
 ##### Frankie Bamgboye
@@ -12,8 +12,8 @@ Working in support roles, good communication was absolutely essential. I had to 
 ##### Problem solving
 In I.T. support you could face a huge amount of widely varied issues day to day so it was absolutely essential to have a methodical approach to solving issues. I have found this skill invaluable in coding which is similar in that it is impossible to know every syntax and being able to find a solution quickly and efficiently is paramount.
 
-##### Experience
-Makers Academy (March 2019 to June 2019)
+### Experience
+#### Makers Academy (March 2019 to June 2019)<br>
 Makers Academy is the largest European coding bootcamp.
 Completed a 16 week course which has enabled me to develop skills in coding utilising various software tools with a major focus on Ruby and Javascript. Developing an ability to deal with challenging technical problems through domain modelling and user stories, as well as collaboration through pairing sessions and Agile group work.
 
@@ -37,7 +37,7 @@ Completed a 16 week course which has enabled me to develop skills in coding util
 • Jasmine<br>
 • Travis CI
 
-Barclays (Feb 2007 - Mar 2019)<br>
+#### Barclays (Feb 2007 - Mar 2019)<br>
 Regulatory Analyst (Apr 2018 - Mar 2019)<br>
 • Part of a team responsible for regulatory engagement on a wide variety of consultation matters impacting the Bank<br>
 • Provide an auditable view of how Barclays is complying with cyber regulations to regulators
@@ -60,7 +60,7 @@ Desktop Support Engineer (Feb 2007 - Jan 2013)<br>
 • Project work such as migrations<br>
 • Liaising with other specialised teams (server, messaging and networks)
 
-Morse (Aug 2004 - Feb 2007)<br>
+#### Morse (Aug 2004 - Feb 2007)<br>
 Desktop Support Engineer<br>
 • Resolving hardware and software issues for a number of large financial services Institutions<br>
 • Project work including Service Pack upgrades and NT to XP migrations
